@@ -2,6 +2,7 @@
   "name": "serverless-idempotency-helper",
   "version": "1.0.0",
   "description": "Serverless plugin to help make deployments idempotent.",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,16 +12,42 @@
     "extract-zip": "^2.0.1",
     "lodash": "^4.17.21"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
+    "semantic-release": "^18.0.1"
+  },
   "peerDependencies": {
     "serverless": "2.x"
   },
   "engines": {
     "node": ">=10.0"
   },
+  "release": {
+    "branches": [
+      "main"
+    ],
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      "@semantic-release/changelog",
+      "@semantic-release/npm",
+      "@semantic-release/github",
+      [
+        "@semantic-release/git",
+        {
+          "assets": [
+            "CHANGELOG.md",
+            "package.json"
+          ],
+          "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
+        }
+      ]
+    ]
+  },
+  "license": "CC0 1.0 Universal",
   "author": {
     "name": "Mike Dial",
     "url": "https://github.com/mdial89f"
-  },
-  "license": "CC0-1.0"
+  }
 }
