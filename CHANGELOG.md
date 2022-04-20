@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/mdial89f/serverless-idempotency-helper/compare/v2.0.0...v2.1.0) (2022-04-20)
+
+
+### Features
+
+* **publish fix:**  Update to fix publishing behavior ([2bf8f1d](https://github.com/mdial89f/serverless-idempotency-helper/commit/2bf8f1d84ecd78c6383061139a4efb807fd97f26))
+
 # [2.0.0](https://github.com/mdial89f/serverless-idempotency-helper/compare/v1.1.0...v2.0.0) (2022-02-11)
 
 
