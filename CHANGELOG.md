@@ -1,3 +1,10 @@
+## [2.2.1](https://github.com/mdial89f/serverless-idempotency-helper/compare/v2.2.0...v2.2.1) (2022-04-23)
+
+
+### Bug Fixes
+
+* **lock:** regen lock ([bad2ad3](https://github.com/mdial89f/serverless-idempotency-helper/commit/bad2ad3e92935f778678bad295db0a72a1e61315))
+
 # [2.2.0](https://github.com/mdial89f/serverless-idempotency-helper/compare/v2.1.0...v2.2.0) (2022-04-23)
 
 
