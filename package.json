@@ -1,6 +1,6 @@
 {
   "name": "@mdial89f/serverless-idempotency-helper",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "Serverless plugin to help make deployments idempotent.",
   "main": "index.js",
   "scripts": {

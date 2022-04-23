@@ -1,3 +1,10 @@
+## [2.2.2](https://github.com/mdial89f/serverless-idempotency-helper/compare/v2.2.1...v2.2.2) (2022-04-23)
+
+
+### Bug Fixes
+
+* **metadata:** fix metadata ([433c623](https://github.com/mdial89f/serverless-idempotency-helper/commit/433c6232c64eb5140be12c40688da4c57f88254e))
+
 ## [2.2.1](https://github.com/mdial89f/serverless-idempotency-helper/compare/v2.2.0...v2.2.1) (2022-04-23)
 
 
