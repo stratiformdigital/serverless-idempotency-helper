@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/mdial89f/serverless-idempotency-helper/compare/v2.1.0...v2.2.0) (2022-04-23)
+
+
+### Features
+
+* **scope:** publish as scoped package ([a562336](https://github.com/mdial89f/serverless-idempotency-helper/commit/a56233603d49382bf3d0643f4fd994dedb7f6524))
+
 # [2.1.0](https://github.com/mdial89f/serverless-idempotency-helper/compare/v2.0.0...v2.1.0) (2022-04-20)
 
 
