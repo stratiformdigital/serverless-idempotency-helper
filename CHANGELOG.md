@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/theclouddeck/serverless-idempotency-helper/compare/v2.2.2...v2.3.0) (2022-06-08)
+
+
+### Features
+
+* **move org:** move to theclouddeck ([2c07809](https://github.com/theclouddeck/serverless-idempotency-helper/commit/2c0780999d6b38daf6b7227934e1156d9d138418))
+
 ## [2.2.2](https://github.com/mdial89f/serverless-idempotency-helper/compare/v2.2.1...v2.2.2) (2022-04-23)
 
 
