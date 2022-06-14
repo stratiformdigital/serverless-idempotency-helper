@@ -1,6 +1,6 @@
 {
   "name": "@theclouddeck/serverless-idempotency-helper",
-  "version": "2.3.0",
+  "version": "3.0.0",
   "description": "Serverless plugin to help make deployments idempotent.",
   "main": "index.js",
   "scripts": {

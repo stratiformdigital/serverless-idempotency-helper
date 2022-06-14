@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/theclouddeck/serverless-idempotency-helper/compare/v2.3.0...v3.0.0) (2022-06-14)
+
+
+### Features
+
+* **sls v3:**  Update peer dependency specifying v3 ([fcc19c3](https://github.com/theclouddeck/serverless-idempotency-helper/commit/fcc19c36f7bf6e6fb876ce6e75df8c5b0dd74e74))
+
+
+### BREAKING CHANGES
+
+* **sls v3:** specifying a sls v3 peer dep
+
 # [2.3.0](https://github.com/theclouddeck/serverless-idempotency-helper/compare/v2.2.2...v2.3.0) (2022-06-08)
 
 
