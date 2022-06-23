@@ -1,5 +1,5 @@
 {
-  "name": "@theclouddeck/serverless-idempotency-helper",
+  "name": "@stratiformdigital/serverless-idempotency-helper",
   "version": "3.0.0",
   "description": "Serverless plugin to help make deployments idempotent.",
   "main": "index.js",
@@ -46,7 +46,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/theclouddeck/serverless-idempotency-helper"
+    "url": "https://github.com/stratiformdigital/serverless-idempotency-helper"
   },
   "license": "MIT",
   "author": {
