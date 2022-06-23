@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/stratiformdigital/serverless-idempotency-helper/compare/v3.0.0...v3.1.0) (2022-06-23)
+
+
+### Features
+
+* **migration:** migrate orgs ([5f39f4c](https://github.com/stratiformdigital/serverless-idempotency-helper/commit/5f39f4ce99d261147de1b128603e1425f84a90f4))
+
 # [3.0.0](https://github.com/theclouddeck/serverless-idempotency-helper/compare/v2.3.0...v3.0.0) (2022-06-14)
 
 
