@@ -1,3 +1,10 @@
+# [3.2.0](https://github.com/stratiformdigital/serverless-idempotency-helper/compare/v3.1.0...v3.2.0) (2022-07-14)
+
+
+### Features
+
+* **publish:** Publish ([dd8c003](https://github.com/stratiformdigital/serverless-idempotency-helper/commit/dd8c003df36987c95a18ab7de60d767eb3f82f17))
+
 # [3.1.0](https://github.com/stratiformdigital/serverless-idempotency-helper/compare/v3.0.0...v3.1.0) (2022-06-23)
 
 
