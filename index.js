@@ -157,6 +157,7 @@ async function repackFunctions(archives) {
 
     // Copy the repacked zip file to the .serverless directory.
     fs.copyFileSync(`${repackDir}/${funcName}.zip.new`, zips[index]);
+    fs.utimesSync(zips[index], time, time)
   }
 
   // Remove the .repack directory
