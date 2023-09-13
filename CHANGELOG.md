@@ -1,3 +1,10 @@
+## [3.2.1](https://github.com/stratiformdigital/serverless-idempotency-helper/compare/v3.2.0...v3.2.1) (2023-09-13)
+
+
+### Bug Fixes
+
+* **utime for archive:**  Set utime for the zip itself to help idempotency ([#40](https://github.com/stratiformdigital/serverless-idempotency-helper/issues/40)) ([3dd67b2](https://github.com/stratiformdigital/serverless-idempotency-helper/commit/3dd67b2cc79ba60190eed391a2d5f4cca834a617))
+
 # [3.2.0](https://github.com/stratiformdigital/serverless-idempotency-helper/compare/v3.1.0...v3.2.0) (2022-07-14)
 
 
